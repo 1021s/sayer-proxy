@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/1021s/Patrick-Proxy#readme",
   "devDependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-http-proxy": "^1.6.0",
     "nodemon": "^2.0.1",
     "request": "^2.88.0"
